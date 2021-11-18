@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    margin-top: 0px;
+}
+
+.intro{
+    width: 100%;
+    background-color: aqua;
+    height: 100px;
+}
+
+.main_content{
+    color: snow;
+}
+
+canvas{
+    background-color: aqua;
+    box-shadow: 5px 5px 10px snow;
+    margin-top: 150px;
+}
+
+.obj_name{
+    background-color: aqua;
+    color: aqua;
+}
